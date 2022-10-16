@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+koooralive.online	TRUE	/	FALSE	1999999999	_mcnc	1
+$host	TRUE	/	FALSE	1999999999	uid	joTHEGNMF+og3zCXD5r6Ag==
+
